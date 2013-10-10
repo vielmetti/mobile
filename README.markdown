@@ -15,3 +15,4 @@ files here:
 * index.html - the application
 * codiqa.ext.js - an empty place for more javascript
 * codiqa.ext.css - an empty place for more CSS
+* mobile.html - the original, 2008 version of this project
