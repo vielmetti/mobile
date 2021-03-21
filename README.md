@@ -1,4 +1,13 @@
-# mobile directory
+# archived
+
+this was a project to adapt the world
+to "mobile" formatted websites. the world
+has moved on since 2015 and mobile sites
+are not needed so much.
+
+this project is archived
+
+## mobile directory (2015)
 
 this is a directory of web sites formatted
 particularly well for mobile devices which
